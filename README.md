@@ -16,5 +16,8 @@ If there is no data, it will print "no more data" and gets data again.
 creates a socket and gets the required data and sends them to the server.
 If the connection weren't established, it will print "retrying..." and tries again in 3 seconds
 
+## Data
+the data used here is ram_usage_percentage, cpu_usage_percentage, and cpu_frequency. 
+
 ### report
-you can find the report [here]() in persian.
+you can find the report [here](https://github.com/kianak2002/Network-Project/blob/main/report_networkProject_9831006.pdf) in persian.
